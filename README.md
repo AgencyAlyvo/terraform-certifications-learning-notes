@@ -1,16 +1,13 @@
 
-# Terraform Certifications & Learning Notes
+# HashiCorp Terraform Certifications — Notes & Synthèses
 
-Notes de formation, synthèses techniques, exercices pratiques et révisions pour les certifications HashiCorp Terraform.
+Ce dépôt regroupe mes notes, synthèses techniques, exemples pratiques et révisions pour les certifications HashiCorp Terraform.
 
-L'objectif de ce dépôt est de construire une compréhension approfondie de Terraform, de son langage, de son fonctionnement interne et de ses bonnes pratiques, afin de réussir les certifications et d'appliquer ces connaissances en conditions réelles.
-
-Les notes sont rédigées en français, en conservant les termes techniques officiels en anglais. Elles s'appuient sur les formations suivies, la documentation officielle HashiCorp et des expérimentations pratiques.
-
+L'objectif est de comprendre les mécanismes de Terraform, de maîtriser l'Infrastructure as Code (IaC) et l'automatisation du provisioning d'infrastructures cloud et on-premises, et de développer des compétences applicables en DevOps, Platform Engineering et SRE, jusqu'aux environnements de production.
 
 ## Certifications
 
-### Terraform Associate (004)
+### HashiCorp Certified: Terraform Associate (004)
 
 Certification de niveau Associate validant les connaissances fondamentales de Terraform, de l'Infrastructure as Code (IaC), du langage HCL, des providers, des modules, de la gestion du state et des workflows Terraform.
 
@@ -83,7 +80,7 @@ Une certification expirée doit être renouvelée en réussissant la version act
 
 <br />
 
-### Terraform Authoring and Operations Advanced
+### HashiCorp Certified: Terraform Authoring and Operations Advanced
 
 Certification avancée validant la capacité à concevoir, développer, maintenir et exploiter des configurations Terraform en production.
 
